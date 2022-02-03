@@ -1,2 +1,2 @@
 # portfolio
-This will serve as my Curriculum
+This will work as my Curriculum
